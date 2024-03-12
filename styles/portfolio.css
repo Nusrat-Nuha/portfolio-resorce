@@ -9,6 +9,8 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
+
 }
 .title-text{
     color: #181818;
@@ -43,4 +45,15 @@ nav a{
     border: 0;
     
 
+}
+.header{
+    background-color: #FFF8F3;
+}
+.Banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.Banner .profile-pic{
+    width: 500px;
 }
